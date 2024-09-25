@@ -1,4 +1,4 @@
-#React Authentication App with Frontegg
+# React Authentication App with Frontegg
 This React application implements user authentication using Frontegg, providing a seamless login experience and admin portal access.
 
 1. clone the repo to a new file
